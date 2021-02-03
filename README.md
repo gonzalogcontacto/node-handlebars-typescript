@@ -1,5 +1,5 @@
 # (Handlebars Lessons) Node Handlebars project with Express, Handlebars and Sequelize. Typescript Based.
-() Proyecto educativo con node, desarrollado con typescript en el que hacemos uso de distintas tecnologías y herramientas para obtener un proyecto con un patrón MVC centrándonos en el uso de handlebars como motor de plantillas. (Herencia, traspaso de variables, renderizado y configuración) 
+Proyecto educativo con node, desarrollado con typescript en el que hacemos uso de distintas tecnologías y herramientas para obtener un proyecto con un patrón MVC centrándonos en el uso de handlebars como motor de plantillas. (Herencia, traspaso de variables, renderizado y configuración) 
 
 # Arquitectura del proyecto
 El proyecto está orgaizado con un archivo src/index.ts que es el encargado de levantar el servidor con Express y es el encargado de la carga del resto de archivos en los que separamos nuestra lógica:
